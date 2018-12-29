@@ -1,4 +1,4 @@
-### Webpack -
+### Webpack
  It has become one of the most important tools for modern web development.
  Webpack is a module bundler which packs all modules with dependencies – js, styles, images, etc. into static assets .js, .css, .jpg , .png, etc.
 
@@ -12,10 +12,10 @@
 * Suited for big projects
 
 ---------------
-###  webpack 4 -
+###  webpack 4
 The main pain point in earlier versions of webpack was the configuration file.
 
-#### key change in webpack 4 - 
+#### key change in webpack 4 
 * It doesn’t need a configuration file by default!
 * There is no need to define the entry point: it will take ./src/index.js as the default!
 * There is no need to define the output file: it will spit out the bundle in ./dist/main.js as the default!
